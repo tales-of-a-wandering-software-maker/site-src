@@ -1,0 +1,4 @@
+baseURL = "https://tales-of-a-wandering-software-maker.github.io/"
+languageCode = "en-us"
+title = "Tales of a Wandering Software Maker"
+theme = "smol"
