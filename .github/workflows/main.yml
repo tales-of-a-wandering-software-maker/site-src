@@ -24,4 +24,4 @@ jobs:
       - uses: jsumners/gh-action-hugo-deploy@v1.0.0
         with:
           destination_repo: tales-of-a-wandering-softare-maker/tales-of-a-wandering-softare-maker.github.io
-          destination_token: ${{ secrets.DEPLOY_TOKEN }}
+          destination_token: ${{ secrets.Deploy_Token }}
